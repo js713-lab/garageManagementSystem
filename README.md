@@ -1,11 +1,17 @@
 # garageManagementSystem
 
-Java OOP garage demo with `Vehicle`, `Aircraft`, and `Rocket` classes under `garage2/src`.
+Java console “Premium Vehicle Repository”: add, view, edit, and delete Aircraft and Rocket records, then save/load them from timestamped text files.
+
+## Stack
+- Java
+- Console I/O (`garage2/src`)
 
 ## Run
-
-Compile and run from `garage2/src` with your local JDK (e.g. IntelliJ / `javac`).
+```bash
+cd garage2/src
+javac *.java
+java Garage
+```
 
 ## Status
-
-Learning project by [CodeCrafter](https://www.codecrafter.dev/).
+Personal / learning project by [CodeCrafter](https://www.codecrafter.dev/).
